@@ -30,7 +30,7 @@ The study highlights that applying a uniform cost-based decision threshold acros
 
 ## Repository Structure
 *   `credit_scoring_analysis.py`: The complete Python script containing data preprocessing, feature engineering, LightGBM model training, and scenario analysis.
-*   `docs/`: The original thesis document (Turkish).
+*   `BSc_Thesis_Credit_Scoring_Fairness`: The original thesis document (Turkish).
 *   `data/`: The dataset used for this project can be accessed here (https://www.kaggle.com/competitions/home-credit-default-risk/overview).
 
 ## Author
