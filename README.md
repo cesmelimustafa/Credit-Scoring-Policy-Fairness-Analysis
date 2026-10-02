@@ -36,4 +36,4 @@ The study highlights that applying a uniform cost-based decision threshold acros
 ## Author
 **Mustafa Cesmeli**
 Industrial Engineer
-[linkedin.com/in/mustafacesmeli/] | [cesmelimustafa0@gmail.com]
+[https://www.linkedin.com/in/mustafacesmeli/] | [cesmelimustafa0@gmail.com]
